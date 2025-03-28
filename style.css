@@ -9,7 +9,7 @@ h1
   font-family:Times New Roman;
 }
 .header{color: Blue; background-color: LightBlue; text-align: center; padding:20px;}
-.thucdon{background-color: LavenderBlush; display: vlock;}
-.thucdon a{background-color: LavenderBlush; text-align: center;}
-.thucdon a: hover{color: White; padding:20px;margin: 10px; text-align: center;}
+.menu{background-color: LavenderBlush; display: vlock;}
+.menu a{background-color: LavenderBlush; text-align: center;}
+.menu a: hover{color: White; padding:20px;margin: 10px; text-align: center;}
 .noidung{background: Gray;}
