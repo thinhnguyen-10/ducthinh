@@ -7,3 +7,8 @@ h1
   color: red;
   font-family:"arial";
 }
+.header{color: Blue; background-color: LightBlue; text-align: center; padding:20px;}
+.thucdon{background-color: LavenderBlush; display: vlock;}
+.thucdon a{background-color: LavenderBlush; text-align: center;}
+.thucdon a hover{color: White; padding:20px;margin: 10px; text-align: center;}
+.noidung{background: Gray;}
